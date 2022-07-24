@@ -1,0 +1,9 @@
+.container-card{
+    display: flex !important;
+    padding: 20px 130px;
+    justify-content: space-evenly;
+}
+
+.body-container{
+    padding: 40px 130px;
+}

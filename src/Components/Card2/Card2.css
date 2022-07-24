@@ -1,0 +1,14 @@
+.card2-container{
+    border: 1px solid #c4c4c4;
+    min-width: 200px;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+.img2{
+    max-width :200px;
+}
